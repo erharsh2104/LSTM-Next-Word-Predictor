@@ -1,0 +1,6 @@
+__pycache__/
+.venv/
+venv/
+.streamlit/secrets.toml
+data.csv
+News_Category_Dataset_v3.json
